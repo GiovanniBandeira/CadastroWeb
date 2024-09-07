@@ -1,9 +1,52 @@
 *{
     border: 0;
     padding: 0;
+    margin: 0;
 }
 
-.image{
-    height: 30px;
-    width: auto;
+header{
+    display: flex;
+    position: fixed;
+    background-color: #636AF2;
+    align-items: center;
+    width: 100%;
+    top: 0;
+    left: 0;
+    justify-content: space-between;
+}
+
+header ul{
+    display: flex;
+    margin: 0;
+    padding: 15px;
+    align-items: flex-end;
+}
+
+header img{
+    object-fit: contain;
+    mix-blend-mode: color-burn;
+    list-style: none;
+    margin: 0px 15px;
+    background: none;
+}
+
+main section{
+    margin-top: 62px;
+    display: flex;
+    background-color: #F2AC57;
+}
+
+main div#Login{
+    border: 10px;
+    box-shadow: 10px 10px 10px #e29536;
+}
+
+main section img{
+    left: 0;
+    width: 50%;
+}
+
+main section div div.botton {
+    display: flex;
+    flex-wrap: wrap;
 }
