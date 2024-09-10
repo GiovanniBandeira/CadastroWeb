@@ -11,4 +11,4 @@
 <p color="#F2AC57">#F2AC57</p>
 </ul>
 
-[Link de acesso!](https://giovannibandeira.github.io/CadastroWeb/)
+[Link de acesso!](https://giovannibandeira.github.io/CadastroWeb/) (Use o link com o Ctrol)
