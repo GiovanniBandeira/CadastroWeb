@@ -12,3 +12,7 @@
 </ul>
 
 [Link de acesso!](https://giovannibandeira.github.io/CadastroWeb/) (Use o link com o Ctrol)
+
+Atualizações
+
+  - Implementação da biblioteca Bootstrap para melhor controle da responsividade entre aparelhos;
